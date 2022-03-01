@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall subjects warning-piece to all traytors you traytors all both great and small, I wish you to beware ... To a pleasant new tune, Come back my own sweet duck.</title>
+            <author>T. R. fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05124</idno>
+            <idno type="STC">Wing R89B</idno>
+            <idno type="STC">ESTC R182339</idno>
+            <idno type="EEBO-CITATION">47012603</idno>
+            <idno type="OCLC">ocm 47012603</idno>
+            <idno type="VID">174571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174571)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall subjects warning-piece to all traytors you traytors all both great and small, I wish you to beware ... To a pleasant new tune, Come back my own sweet duck.</title>
+                  <author>T. R. fl. 1660.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T. R.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Contains 1 illustration.</note>
+                  <note>Right half-sheet contains: The second part, to the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174571:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>The Royall Subjects Warning piece to all Traytors</head>
+            <argument>
+               <l>You traytors all both great and ſmall, I wiſh you to beware.</l>
+               <l>In time r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and be content, for you muſt, all to <hi>Hide-Park-</hi> Fair.</l>
+               <l>There is Hemp'n toyes for you brave boys, which murdered Charles the firſt,</l>
+               <l>The Hangman he your guide muſt be, for thither go you muſt.</l>
+            </argument>
+            <opener>To a pleaſant new Tune, <hi>Come back my own ſweet Duck.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>OLd <hi>England</hi> now rejoyce,</l>
+                  <l>thy ſorrows all are paſt;</l>
+                  <l>Tryu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph with heart and voice.</l>
+                  <l>good news is come at laſt,</l>
+                  <l>Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe that long time did mourn,</l>
+                  <l>come and rejoyce with me</l>
+                  <l>I ſcorn my C<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t to turn,</l>
+                  <l>but faithful I will be.</l>
+                  <l>Heavens bleſſe our Generall.</l>
+                  <l>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> hath our ſorrows drownd,</l>
+                  <l>Pray for him great and ſmall,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>King Charles muſt now be Crownd.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This is good <unclear>news</unclear> indeed</l>
+                  <l>for every hon<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt man;</l>
+                  <l>The Law will now procéed</l>
+                  <l>Tra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do what you can,</l>
+                  <l>Your' gl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe is almoſt run</l>
+                  <l>your time is almoſt spent,</l>
+                  <l>You will to Squire Dun</l>
+                  <l>except you ſoon repent.</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for King <hi>Charles</hi> right,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lords of high renown</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fight</l>
+                  <lg type="refrain">
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Charles muſt wear his Crown</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>You that did once bare ſway</l>
+                  <l>and kept us all at <hi>under,</hi>
+                  </l>
+                  <l>Now is your reckoning day;</l>
+                  <l>good Subjects you are plunder,</l>
+                  <l>Thoſe that did firmly ſtand</l>
+                  <l>for <hi>Charles</hi> of high renown</l>
+                  <l>You baniſhed the Land,</l>
+                  <l>and chaſt them up and down,;</l>
+                  <l>Then Traitors all repent,</l>
+                  <l>in City and in town,</l>
+                  <l>Your time is almoſt ſpent,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>King Charles muſt wear, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>What anſwer can you make</l>
+                  <l>either to God or man,</l>
+                  <l>What courſe now can you take</l>
+                  <l>do all the beſt you can:</l>
+                  <l>For murdering of your King,</l>
+                  <l>the Law will now proceed,</l>
+                  <l>Beware a hempen ſtring,</l>
+                  <l>no better can you ſpeed.</l>
+                  <l>Then traytors all repent</l>
+                  <l>in City and in Town,</l>
+                  <l>Your time is almoſt ſpent.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>King Charles, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part,</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>YOur Anabaptiſts head</l>
+                  <l>no comfort can you bring,</l>
+                  <l>Alack he is almoſt dead,</l>
+                  <l>for treaſon againſt the King</l>
+                  <l>Himſelf muſt anſwer make,</l>
+                  <l>for what is done and paſt</l>
+                  <l>He can no way forſake</l>
+                  <l>Squire <hi>Dun</hi> &amp; fear at laſt,</l>
+                  <l>then traitors all repent</l>
+                  <l>in City and in town,</l>
+                  <l>Your tune is almoſt ſpent.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>King Charles, &amp;c,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Come <hi>Harriſon</hi> thou art the man.</l>
+                  <l>I and <hi>John Oakey</hi> thy brother,</l>
+                  <l>For treaſon againſt the King,</l>
+                  <l>there ſcarce is two ſuch other;</l>
+                  <l>the one a Butchers ſon,</l>
+                  <l>the other a poor Dray-man,</l>
+                  <l>You muſt to Squire <hi>Dun</hi>
+                  </l>
+                  <l>do all the beſt you can</l>
+                  <l>You traitors all repent</l>
+                  <l>in City and in town,</l>
+                  <l>Your time is almoſt ſpent,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>King Charles, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Alack blind <hi>Hewſon</hi> now,</l>
+                  <l>where is thy Laſte and Awl,</l>
+                  <l>
+                     <hi>It had been</hi> better for thee</l>
+                  <l>to have kept in thy ſtall;</l>
+                  <l>For Judging of the King</l>
+                  <l>a rebellions horrid déed,</l>
+                  <l>Beware of a Hempen ſtring</l>
+                  <l>no better thou can ſpéed,</l>
+                  <l>And for killing poor prentice boys</l>
+                  <l>for playing at the foot ball,</l>
+                  <l>Squire <hi>Dun</hi> has be hempen toyes</l>
+                  <l>for ſure will ſerve you all.</l>
+               </lg>
+               <lg>
+                  <l>Bold <hi>Arthur</hi> Haſlerigge</l>
+                  <l>
+                     <hi>Newcaſtle</hi> doth thée curſe</l>
+                  <l>For raiſing of their Coals</l>
+                  <l>four ſhillings a Chauldron juſt;</l>
+                  <l>Nay this is the worſt of all,</l>
+                  <l>for Judging of the King</l>
+                  <l>As thou ſate in <hi>White-hall,</hi>
+                  </l>
+                  <l>beware of an Hempen ſtring.</l>
+                  <l>Repent you traitors all</l>
+                  <l>in City and in town,</l>
+                  <l>Juſtice doth on you call,</l>
+                  <l>King <hi>Charles</hi> will pull you down.</l>
+               </lg>
+               <lg>
+                  <l>Your <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> curſe the day</l>
+                  <l>that ever you did know</l>
+                  <l>
+                     <hi>Bold Oliver,</hi> I ſay,</l>
+                  <l>that traitor, <hi>Englands</hi> foe;</l>
+                  <l>He being a Brewers Son</l>
+                  <l>you liquored well your throat,</l>
+                  <l>the Commenty you have undone</l>
+                  <l>Yet now beware a Rope</l>
+                  <l>for climbing up ſo high</l>
+                  <l>You are ſure to have a fall.</l>
+                  <l>the innocent blood doth cry</l>
+                  <l>Down with thoſe Rebells all.</l>
+               </lg>
+               <lg>
+                  <l>When you had murdered the King</l>
+                  <l>you baniſhed his Wife,</l>
+                  <l>And all he Royall Off-ſpring</l>
+                  <l>you fought to take their life;</l>
+                  <l>All that true Subjects were</l>
+                  <l>you bid them traitors call.</l>
+                  <l>You muſt to Hide-Park-Fair,</l>
+                  <l>Squire <hi>Dun</hi> invites you all.</l>
+                  <l>then traitors all look too't.</l>
+                  <l>the Rump cannot you ſave,</l>
+                  <l>the Gallows will claim her due</l>
+                  <l>uſe all the skill you have.</l>
+               </lg>
+               <lg>
+                  <l>Concluding thus I cry</l>
+                  <l>God ſave our gracious King</l>
+                  <l>From bloody tyranny,</l>
+                  <l>and all the royall Off-ſpring,</l>
+                  <l>Lord bleſſe the Duke of <hi>York,</hi>
+                  </l>
+                  <l>brave Generall <hi>Monck</hi> alſo,</l>
+                  <l>He is a Noble Spark</l>
+                  <l>againſt King <hi>Charles</hi> his ſoe.</l>
+                  <l>then traitors all repent,</l>
+                  <l>mark we well what here is ſaid,</l>
+                  <l>Your time is almoſt ſpent</l>
+                  <l>alack you are all betraid,</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>T. R.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
